@@ -1,0 +1,26 @@
+{
+  "BGTO": {
+    "results": {
+      "rifle25": 49,
+      "longjump": 5.45,
+      "grenade500": 97.67
+    },
+    "badge": true
+  },
+  "GTO1": {
+    "results": {
+      "sprint100": 8.146000000000033,
+      "obstacle150": 14.272999999999934,
+      "grenade700": 46.6
+    },
+    "badge": true
+  },
+  "GTO2": {
+    "results": {
+      "hurdles110": null,
+      "javelin800": null,
+      "run1500": null
+    },
+    "badge": false
+  }
+}
